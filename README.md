@@ -1,26 +1,28 @@
-# 你好，我是云霄 👋
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CelesteXiao&show_icons=true&theme=radical&hide_border=true)
+# Hello, I'm a Developer 👋
 
 <div align="center">
 
-### 🚀 关于我
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CelesteXiao&show_icons=true&theme=radical&hide_border=true)
 
-- 🔭 热爱创造，专注构建优雅的数字体验
-- 🎯 专注于 Web 开发、界面设计和创意编程
-- 💡 喜欢探索新技术，享受从 0 到 1 的创造过程
-- 🌐 相信好的设计能让技术更有温度
+</div>
 
-### 🛠️ 技术栈
+## 🚀 About Me
 
-| 领域 | 技术 |
-|------|------|
-| 前端 | React · Vue · Three.js · GSAP |
-| 后端 | Node.js · Python · Go |
-| 设计 | Figma · UI/UX · 动画 |
-| 工具 | Git · Docker · VS Code |
+- 🔭 Passionate about creating elegant digital experiences
+- 🎯 Focus on Web Development, UI/UX Design, and Creative Coding
+- 💡 Love exploring new technologies, enjoy the process of creation from 0 to 1
+- 🌐 Believe great design makes technology more human
 
-### 📊 活跃统计
+## 🛠️ Tech Stack
+
+| Domain | Technologies |
+|--------|--------------|
+| Frontend | React · Vue · Three.js · GSAP |
+| Backend | Node.js · Python · Go |
+| Design | Figma · UI/UX · Animation |
+| Tools | Git · Docker · VS Code |
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -28,25 +30,16 @@
 
 </div>
 
-### 🏆 成就
+## 📫 Connect With Me
 
 <div align="center">
 
-![Readme Cards](https://github-profile-trophy.vercel.app/?username=CelesteXiao&theme=radical&no-frame=true&no-bg=false&row=1)
-
-</div>
-
-### 📫 联系我
-
-<div align="center">
-
-| 平台 | 链接 |
-|------|------|
-| 📧 Email | [联系邮箱] |
+| Platform | Link |
+|----------|------|
 | 🐙 GitHub | [CelesteXiao](https://github.com/CelesteXiao) |
-| 🎨 主页 | [CelesteXiao.github.io](https://CelesteXiao.github.io) |
-| 🐦 Twitter | [你的 Twitter] |
-| 💼 LinkedIn | [你的 LinkedIn] |
+| 📧 Email | [Your Email] |
+| 🐦 Twitter | [Your Twitter] |
+| 💼 LinkedIn | [Your LinkedIn] |
 
 </div>
 
@@ -54,9 +47,9 @@
 
 <div align="center">
 
-**感谢你的来访！** 🎉
+**Thanks for visiting!** 🎉
 
-如果你对我的项目感兴趣，随时欢迎交流。
+If you're interested in my work, feel free to connect.
 
 ![Visitor Count](https://profile-counter.glitch.me/CelesteXiao/count.svg)
 
