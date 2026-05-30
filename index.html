@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Xiao | Portfolio</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;900&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    <!-- 粒子背景 -->
+    <div id="particles-js"></div>
+    
+    <!-- 导航 -->
+    <nav class="navbar">
+        <div class="logo">
+            <span class="logo-text">X</span>
+        </div>
+        <ul class="nav-links">
+            <li><a href="#home" class="active">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+        <div class="nav-toggle">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+    </nav>
+
+    <!-- 主屏幕 -->
+    <section id="home" class="hero">
+        <div class="hero-content">
+            <div class="hero-text">
+                <p class="hero-subtitle">Hello, I'm</p>
+                <h1 class="hero-title">
+                    <span class="title-line">X</span>
+                    <span class="title-line">i</span>
+                    <span class="title-line">a</span>
+                    <span class="title-line">o</span>
+                </h1>
+                <p class="hero-description">
+                    Developer · Designer · Dreamer
+                </p>
+                <p class="hero-typewriter">
+                    <span id="typewriter"></span>
+                    <span class="cursor">|</span>
+                </p>
+            </div>
+            <div class="hero-visual">
+                <div class="hexagon-grid">
+                    <div class="hex"></div>
+                    <div class="hex"></div>
+                    <div class="hex"></div>
+                    <div class="hex"></div>
+                    <div class="hex"></div>
+                </div>
+            </div>
+        </div>
+        <div class="scroll-indicator">
+            <div class="mouse">
+                <div class="wheel"></div>
+            </div>
+            <span>Scroll to explore</span>
+        </div>
+    </section>
+
+    <!-- 关于 -->
+    <section id="about" class="about">
+        <div class="container">
+            <h2 class="section-title">
+                <span class="title-decoration">01</span>
+                About Me
+            </h2>
+            <div class="about-content">
+                <div class="about-image">
+                    <div class="image-frame">
+                        <div class="avatar-placeholder">X</div>
+                        <div class="frame-decoration"></div>
+                    </div>
+                </div>
+                <div class="about-text">
+                    <p class="about-description">
+                        热爱创造，专注构建优雅的数字体验。专注于 Web 开发、界面设计和创意编程。
+                    </p>
+                    <div class="skills-grid">
+                        <div class="skill-card">
+                            <i class="fas fa-code"></i>
+                            <h3>Development</h3>
+                            <p>React · Vue · Node.js · Python</p>
+                        </div>
+                        <div class="skill-card">
+                            <i class="fas fa-palette"></i>
+                            <h3>Design</h3>
+                            <p>Figma · UI/UX · Animation</p>
+                        </div>
+                        <div class="skill-card">
+                            <i class="fas fa-mobile-alt"></i>
+                            <h3>Creative</h3>
+                            <p>WebGL · Three.js · GSAP</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 项目 -->
+    <section id="projects" class="projects">
+        <div class="container">
+            <h2 class="section-title">
+                <span class="title-decoration">02</span>
+                Projects
+            </h2>
+            <div class="projects-grid">
+                <div class="project-card">
+                    <div class="project-image">
+                        <div class="project-overlay">
+                            <a href="#" class="project-link">
+                                <i class="fas fa-external-link-alt"></i>
+                                View
+                            </a>
+                        </div>
+                        <div class="project-placeholder">
+                            <i class="fas fa-rocket"></i>
+                        </div>
+                    </div>
+                    <div class="project-info">
+                        <h3>Project Alpha</h3>
+                        <p>一个充满科技感的交互项目，融合前沿技术与创意设计</p>
+                        <div class="project-tags">
+                            <span class="tag">React</span>
+                            <span class="tag">Three.js</span>
+                            <span class="tag">GSAP</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="project-card">
+                    <div class="project-image">
+                        <div class="project-overlay">
+                            <a href="#" class="project-link">
+                                <i class="fas fa-external-link-alt"></i>
+                                View
+                            </a>
+                        </div>
+                        <div class="project-placeholder">
+                            <i class="fas fa-paint-brush"></i>
+                        </div>
+                    </div>
+                    <div class="project-info">
+                        <h3>Project Beta</h3>
+                        <p>现代化设计系统，打造一致的用户体验</p>
+                        <div class="project-tags">
+                            <span class="tag">Vue</span>
+                            <span class="tag">Tailwind</span>
+                            <span class="tag">Storybook</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="project-card">
+                    <div class="project-image">
+                        <div class="project-overlay">
+                            <a href="#" class="project-link">
+                                <i class="fas fa-external-link-alt"></i>
+                                View
+                            </a>
+                        </div>
+                        <div class="project-placeholder">
+                            <i class="fas fa-cube"></i>
+                        </div>
+                    </div>
+                    <div class="project-info">
+                        <h3>Project Gamma</h3>
+                        <p>数据可视化工具，将复杂数据变为直观的故事</p>
+                        <div class="project-tags">
+                            <span class="tag">D3.js</span>
+                            <span class="tag">TypeScript</span>
+                            <span class="tag">WebGL</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 联系 -->
+    <section id="contact" class="contact">
+        <div class="container">
+            <h2 class="section-title">
+                <span class="title-decoration">03</span>
+                Get In Touch
+            </h2>
+            <p class="contact-description">
+                有想法？想合作？或者只是想打个招呼？<br>
+                随时欢迎联系。
+            </p>
+            <div class="contact-links">
+                <a href="#" class="contact-card">
+                    <i class="fab fa-github"></i>
+                    <span>GitHub</span>
+                </a>
+                <a href="#" class="contact-card">
+                    <i class="fab fa-twitter"></i>
+                    <span>Twitter</span>
+                </a>
+                <a href="#" class="contact-card">
+                    <i class="fab fa-linkedin"></i>
+                    <span>LinkedIn</span>
+                </a>
+                <a href="#" class="contact-card">
+                    <i class="fas fa-envelope"></i>
+                    <span>Email</span>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- 页脚 -->
+    <footer class="footer">
+        <p>© 2026 Xiao. Crafted with passion.</p>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
+    <script src="js/particles.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>
