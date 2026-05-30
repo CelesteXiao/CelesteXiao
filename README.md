@@ -59,6 +59,8 @@
 
 </div>
 
+> ⚠️ 如果 Stats 卡片显示异常，是因为 Vercel 服务暂时不可用，稍后会恢复。
+
 ---
 
 ## 🐍 Contribution Snake
@@ -67,16 +69,6 @@
 
 <!-- 贪吃蛇动画 - 由 GitHub Action 自动生成 -->
 <img src="https://github.com/CelesteXiao/CelesteXiao/blob/main/github-contribution-grid-snake.svg?raw=true" alt="snake" />
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=CelesteXiao&theme=radical&column=8&row=1&margin-width=8&margin-height=8)
 
 </div>
 
