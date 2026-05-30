@@ -12,8 +12,7 @@
 
 - 🔭 **Currently working on:** Building elegant digital experiences from concept to deployment
 - 🌱 **Learning:** AI/ML integration, Creative coding with Three.js
-- 💬 **Ask me about:** Web development, UI/UX design, creative coding
-- 📫 **Reach me:** [Your Email]
+- 💬 **Ask me about:** Web development, test automation, Python
 
 ---
 
